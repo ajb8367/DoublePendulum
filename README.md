@@ -11,6 +11,7 @@ There were prior steps to the final product of this project:
 
 
 Works Cited:
+
 [1] E. Fehlberg, “Classical seventh-, sixth-, and fifth-order Runge-Kutta-Nystrom formulas with stepsize control for general second-order differential equations,” NASA-TR-R-432, Oct. 1974. Accessed: Apr. 30, 2024. [Online]. Available: https://ntrs.nasa.gov/citations/19740026877
 [2] W. Beason, “Improve your Runge-Kutta-Nyström algorithms with this one weird trick,” Cyber Net It. Accessed: Apr. 30, 2024. [Online]. Available: https://willbeason.com/2021/06/25/improve-your-runge-kutta-nystrom-algorithms-with-this-one-weird-trick/
 [3] “Lesson: Concurrency (The Java™ Tutorials > Essential Java Classes).” Accessed: Apr. 30, 2024. [Online]. Available: https://docs.oracle.com/javase/tutorial/essential/concurrency/
